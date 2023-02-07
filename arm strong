@@ -15,3 +15,4 @@ int main()
 	printf("%d is armstrong",m);
 	else
 	printf("%d is not armstrong",m);
+	}
